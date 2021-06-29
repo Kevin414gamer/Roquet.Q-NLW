@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js",
-    "init-db": "node src/db/init.js"    
+    "init-db": "node src/db/init.js"
   },
   "keywords": [],
   "author": "Kevin Venâncio",
