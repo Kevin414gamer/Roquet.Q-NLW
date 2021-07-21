@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://rocketq-discover.herokuapp.com/" target="_blank">Acesse o site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://rocketq-discover.herokuapp.com/" target="_blank">Acesse o site</a>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-milhas-extras">Milhas extras</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
