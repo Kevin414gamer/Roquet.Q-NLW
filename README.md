@@ -40,6 +40,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
 
+<p align="center">
+  <img alt="Gif_Rocket.Q" src=".github/rocket.q_gif.gif" width="100%">
+</p>
+
 ## 🚆 Milhas extras
 
 - Fazer deploy da aplicação: concluído em 11/07/2021 :heavy_check_mark:
