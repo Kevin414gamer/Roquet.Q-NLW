@@ -47,8 +47,8 @@ O Rocket.Q é uma aplicação de interação através de perguntas, sendo possí
 ## 🚆 Milhas extras
 
 - Fazer deploy da aplicação: concluído em 11/07/2021 :heavy_check_mark:
-- Adição de arquivo com configuração para cache em 06/08/2021 :heavy_check_mark:
-- Animação do boneco do inicio: em progresso
+- Adição de arquivo com configuração para cache: concluído em 06/08/2021 :heavy_check_mark:
+- Animação do boneco do inicio e criação de sala: concluído em 20/08/2021 :heavy_check_mark:
 
 ## 🔖 Layout
 
